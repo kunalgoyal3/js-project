@@ -5,3 +5,4 @@ let newarr=arr1.map((element)=>{
 })
 
 console.log(newarr);
+console.log(arr1);
